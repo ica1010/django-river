@@ -1,3 +1,6 @@
+
+
+
 .. |Build Status| image:: https://travis-ci.org/javrasya/django-river.svg
     :target: https://travis-ci.org/javrasya/django-river
 
