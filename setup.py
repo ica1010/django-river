@@ -11,7 +11,7 @@ from setuptools import setup, find_packages
 #     sys.stderr.write("[ERROR] Cannot find file specified as "
 #                      "``long_description`` (%s)\n" % readme_file)
 #     sys.exit(1)
-
+long_description = ""
 setup(
     name='django-river',
     version='3.3.0',
